@@ -1,0 +1,26 @@
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-image: url("images/paperbackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand{
+    font-family: 'Satisfy', cursive;
+}
+
+.glyphicon-star {
+    color: #CCCCCC;
+    font-size: 16px;
+}
+
+.glyphicon-star.active {
+    color: #FDB230;
+}
